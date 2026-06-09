@@ -15,8 +15,8 @@ class Ev < Formula
   #   poppler — pdftotext, enables PDF content search/extraction
   #   chafa   — inline image (Ctrl-V) visual preview on kitty-graphics terminals
   depends_on "bat" => :recommended
-  depends_on "poppler" => :recommended
   depends_on "chafa" => :recommended
+  depends_on "poppler" => :recommended
 
   def install
     # Keep the script's layout intact: ev resolves its helpers relative to
