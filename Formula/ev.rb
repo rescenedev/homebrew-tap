@@ -1,8 +1,8 @@
 class Ev < Formula
   desc "Everything-style terminal file search with office-document extraction"
   homepage "https://github.com/rescenedev/ev"
-  url "https://github.com/rescenedev/ev/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "e72bda37631523a7853eb5c498850ee6f27b134d250fdf1d39935f4470b20712"
+  url "https://github.com/rescenedev/ev/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "dd9dd456ea8aeb7e60d92908eb3cd6a02c3adf76fb185dac845daec1fbcdfae7"
   license "MIT"
   head "https://github.com/rescenedev/ev.git", branch: "main"
 
