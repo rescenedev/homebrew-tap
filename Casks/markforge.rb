@@ -1,6 +1,6 @@
 cask "markforge" do
-  version "0.1.13"
-  sha256 "31a3ee69b175c1f8bae4fa6e56d09d8e6c92dac81cff106a98ba11ec1d9f1acf"
+  version "0.1.14"
+  sha256 "7f08e0213e205c16adf2564695a65e0cae0ac98b5002de275e671065d56e3c00"
 
   url "https://github.com/rescenedev/markforge/releases/download/v#{version}/MarkForge.app.zip"
   name "MarkForge"
