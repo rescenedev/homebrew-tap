@@ -7,7 +7,7 @@ cask "pomodoro" do
   desc "Minimal native macOS menu-bar Pomodoro timer"
   homepage "https://github.com/rescenedev/pomodoro"
 
-  depends_on macos: ":sonoma"
+  depends_on macos: :sonoma
 
   app "Pomodoro.app"
 
