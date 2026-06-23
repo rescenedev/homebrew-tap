@@ -1,6 +1,6 @@
 cask "pomodoro" do
-  version "1.0.0"
-  sha256 "8e17c428628811708b4890e526e4a1ac2ae7df27fadf05741c921fa6f74754ca"
+  version "1.1.0"
+  sha256 "83a4c0a52d742fc369b26710781b1737f769dc75620eb095c98c2b8cf187711d"
 
   url "https://github.com/rescenedev/pomodoro/releases/download/v#{version}/Pomodoro.dmg"
   name "Pomodoro"
